@@ -1,1 +1,1 @@
-# script_for_binary_masks
+# script for binary masks
